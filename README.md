@@ -74,6 +74,17 @@ The project includes visualization of:
 Users can easily use this project by opening the Google Colab notebook or cloning the repository.
 
 ### Using Google Colab
+## ⚠️ Dataset Requirement
+
+Before running the notebook, users need to upload the `insurance.csv` dataset file to Google Colab.
+
+Steps:
+1. Open the Colab notebook
+2. Click on the folder icon in the left sidebar
+3. Upload `insurance.csv`
+4. Run all the cells
+
+After uploading the dataset, users can successfully run the complete project and test predictions using their own input data.
 
 1. Open the Colab notebook.
 2. Click on **File > Save a Copy in Drive**.
